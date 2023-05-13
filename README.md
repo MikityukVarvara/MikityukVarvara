@@ -1,6 +1,5 @@
 <div id="header" align="center">
     <h1>Hi there, I'm Varvara 👋 </h1>
-    <hr>
     <h3>Junior .NET Developer from Ukraine</h3>
 </div>
 
