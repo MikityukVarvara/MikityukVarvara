@@ -25,24 +25,31 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="50"/>&nbsp;&nbsp;&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="50"/>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="50" />&nbsp;&nbsp;
-    
-</p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="60" height="70" />&nbsp;&nbsp;  
+</p>                                                                                                        
 <p align="center">
-<samp>TCP/IP, Databases (SQL, MySQL, PgAdmin), Creation and configuration VLAN, DHCP, DNS, Static and dynamic routing</samp>
+<samp>.NET/C#, WPF, ASP.net core mvc, CSS/HTML, Databases (MySQL, PgAdmin)</samp>
 </p>
 
-<h2 align="center">:books: Certificate</h2>
-Cisco: Introduction to Networks  
-Cisco: Routing and Switching Essentials       
-
-### About me
-- 📫 How to reach me:  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="50" />
-- 🌍 Languages: English, Ukrainian
-
-
+<h2 align="center">:books: Other skills and Certificate</h2>
+<p align="center">
+    :sparkle: Cisco: Introduction to Networks<br>  
+    :sparkle: Cisco: Routing and Switching Essentials<br> 
+    <samp>   
+TCP/IP, Databases (SQL, MySQL, PgAdmin), Creation and configuration VLAN, DHCP, DNS, Static and dynamic routing<br>  
+ </samp>
+    </p>
+    <h2 align="center"> 🌍 Languages</h2>
+    <p align="center">
+     <samp>  
+       <b> English(Upper-Intermediate)</b><br>
+         <b> Ukrainian(Native) </b>
+          </samp>  
+  </p>
   
+  <!--
  <div id="stat" align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MikityukVarvara&theme=algolia" alt=""/>
    </div>       
-               
+       -->        
                   
