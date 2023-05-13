@@ -1,5 +1,6 @@
 <div id="header" align="center">
     <h1>Hi there, I'm Varvara 👋 </h1>
+    <hr>
     <h3>Junior .NET Developer from Ukraine</h3>
 </div>
 
@@ -20,6 +21,8 @@
   <img src="https://komarev.com/ghpvc/?username=MikityukVarvara" alt="https://github.com/MikityukVarvara" />
 </p>
 
+<hr>
+
 <h2 align="center"> :scissors: Skills</h2>
 <p align="center">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="50"/>&nbsp;&nbsp;&nbsp;
@@ -30,7 +33,7 @@
 <p align="center">
 <samp>.NET/C#, WPF, ASP.net core mvc, CSS/HTML, Databases (MySQL, PgAdmin)</samp>
 </p>
-
+<hr>
 <h2 align="center">:books: Other skills and Certificate</h2>
 <p align="center">
     :sparkle: Cisco: Introduction to Networks<br>  
@@ -47,6 +50,7 @@ TCP/IP, Databases (SQL, MySQL, PgAdmin), Creation and configuration VLAN, DHCP, 
           </samp>  
   </p>
   
+  <hr>
   <!--
  <div id="stat" align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MikityukVarvara&theme=algolia" alt=""/>
