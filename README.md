@@ -14,7 +14,7 @@
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
-  <samp>Rapidly developing C# programmer, as well as a system administrator by education, I possess a high degree of teachability, motivation, and desire for self-improvement. Well-rounded IT specialist.
+  <samp>
   </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=MikityukVarvara" alt="https://github.com/MikityukVarvara" />
@@ -30,7 +30,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="60" height="70" />&nbsp;&nbsp;  
 </p>                                                                                                        
 <p align="center">
-<samp>.NET/C#, WPF, ASP.net core mvc, CSS/HTML, Databases (MySQL, PgAdmin)</samp>
+<samp>. /samp>
 </p>
 <hr>
 <h2 align="center">:books: Other skills and Certificate</h2>
