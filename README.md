@@ -4,7 +4,7 @@
 </div>
 
  <div id="socials" align="center">
-    <a href="[linkedin-url](https://ua.linkedin.com/in/barbara-mikityuk-2a824b199)">
+    <a href="https://www.linkedin.com/in/varvara-mikityuk-2a824b199/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
     <a href="[telegram-url](https://t.me/mikityuk_cl)">
